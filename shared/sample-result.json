@@ -1,0 +1,16 @@
+{
+    "sender": "Lambeth Council",
+    "letter_type": "Council tax reminder",
+    "summary": "You owe £245 for April–June council tax. If you don't pay within 7 days, the council may take you to court and add extra costs.",
+    "amount": "£245.00",
+    "deadline": "2026-10-25",
+    "urgency": "red",
+    "actions": [
+      "Pay £245 online or by phone before 25 October",
+      "If you can't pay in full, contact the council before the deadline to ask for a payment plan"
+    ],
+    "sources": [
+      { "title": "Council Tax", "url": "https://www.gov.uk/council-tax" }
+    ],
+    "language": "en"
+  }
